@@ -1,4 +1,4 @@
-update=5/7/2018 2:47:38 PM
+update=8/16/2018 9:49:50 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,6 +23,8 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[general]
+version=1
 [eeschema]
 version=1
 LibDir=
@@ -59,5 +61,4 @@ LibName29=opto
 LibName30=atmel
 LibName31=contrib
 LibName32=valves
-[general]
-version=1
+LibName33=C:/Users/andre/Documents/Projects/Logic_Blocks/Logic Blocks

@@ -1,0 +1,15 @@
+---ToDo---
+
+----Components----
+Battery
+Mom Switch
+Toggle Switch
+Cmp1
+Cmp4
+2x4Dec
+4-1Mux
+DLatch
+DFF
+JKFF
+7 Seg Decoder
+Clk
